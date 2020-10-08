@@ -8,7 +8,8 @@ namespace Task3
         {
             Console.Write("Введите число в см:");
             double a = double.Parse(Console.ReadLine());
-            Console.WriteLine($"{a / 100}м");
+            
+            Console.WriteLine($"{Math.Round(a / 100)}м");
         }
     }
 }

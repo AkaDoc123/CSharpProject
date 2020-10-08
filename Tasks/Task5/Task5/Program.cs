@@ -6,15 +6,17 @@ namespace Task5
     {
         static void Main(string[] args)
         {
+            //&& (true  && false)=false
+            //|| (||)=tru
             int k;
             do
             {
                 Console.Write("Введите:");
                  k = int.Parse(Console.ReadLine());
-            } while (k > 99);
+            } while (k > 99||k<10);
 
 
-
+            
             Console.WriteLine($"a. {k / 10}"); 
             Console.WriteLine($"b. {k % 10}");
             Console.WriteLine($"c. {(k / 10)+(k%10)}");

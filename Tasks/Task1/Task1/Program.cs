@@ -10,6 +10,7 @@ namespace Task1
             int b = 6;
             int c = 10;
             Console.Write($"{a}  {b}  {c}");
+            Console.WriteLine("sdsdsd");
         }
 
 

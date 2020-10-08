@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zizbl\\source\\repos\\Task11\\Task11\\Task11.csproj": {}
+    "C:\\Users\\zizbl\\Documents\\C#Projects\\Tasks\\Task11\\Task11\\Task11.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zizbl\\source\\repos\\Task11\\Task11\\Task11.csproj": {
+    "C:\\Users\\zizbl\\Documents\\C#Projects\\Tasks\\Task11\\Task11\\Task11.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zizbl\\source\\repos\\Task11\\Task11\\Task11.csproj",
+        "projectUniqueName": "C:\\Users\\zizbl\\Documents\\C#Projects\\Tasks\\Task11\\Task11\\Task11.csproj",
         "projectName": "Task11",
-        "projectPath": "C:\\Users\\zizbl\\source\\repos\\Task11\\Task11\\Task11.csproj",
+        "projectPath": "C:\\Users\\zizbl\\Documents\\C#Projects\\Tasks\\Task11\\Task11\\Task11.csproj",
         "packagesPath": "C:\\Users\\zizbl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zizbl\\source\\repos\\Task11\\Task11\\obj\\",
+        "outputPath": "C:\\Users\\zizbl\\Documents\\C#Projects\\Tasks\\Task11\\Task11\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

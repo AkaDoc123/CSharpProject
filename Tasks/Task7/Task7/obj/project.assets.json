@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zizbl\\Documents\\C#Projects\\Task7\\Task7\\Task7.csproj",
+      "projectUniqueName": "C:\\Users\\zizbl\\Documents\\C#Projects\\Tasks\\Task7\\Task7\\Task7.csproj",
       "projectName": "Task7",
-      "projectPath": "C:\\Users\\zizbl\\Documents\\C#Projects\\Task7\\Task7\\Task7.csproj",
+      "projectPath": "C:\\Users\\zizbl\\Documents\\C#Projects\\Tasks\\Task7\\Task7\\Task7.csproj",
       "packagesPath": "C:\\Users\\zizbl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zizbl\\Documents\\C#Projects\\Task7\\Task7\\obj\\",
+      "outputPath": "C:\\Users\\zizbl\\Documents\\C#Projects\\Tasks\\Task7\\Task7\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
